@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+src/om/__init__.py
+src/om/om.py
+src/om.egg-info/PKG-INFO
+src/om.egg-info/SOURCES.txt
+src/om.egg-info/dependency_links.txt
+src/om.egg-info/top_level.txt
+tests/test_imports.py
